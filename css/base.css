@@ -26,7 +26,7 @@ main article {
     border-radius: 20px;
 }
 
-nav a{
-    color: #e6e6e6;
+nav{
+    color: #e6e6e6 !important;
     font-weight: bold;
 }
